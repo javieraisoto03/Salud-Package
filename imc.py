@@ -1,4 +1,4 @@
-"""Programa que calcula el IMC de una persona deacuerdo a su peso y su altura.
+"""Programa que calcula el IMC de una persona de acuerdo a su peso y su altura.
 Luego, su nivel de peso corresponde a:
      IMC           CLASIFICACIÓN
 ----------------------------------
